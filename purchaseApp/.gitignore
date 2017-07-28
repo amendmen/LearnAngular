@@ -2,6 +2,8 @@
 Thumbs.db
 ehthumbs.db
 
+# .map files 
+*.map
 
 # Folder config file
 Desktop.ini
